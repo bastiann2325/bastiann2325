@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  I'm Sebastian, a Software Developer ✨ </h1> 
+<h1 align="left">Hey 👋  I'm Sebastian, a Software Developer :shipit: </h1> 
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
