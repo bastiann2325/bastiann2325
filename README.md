@@ -4,7 +4,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<div align="center">
+<div align="left">
 <br>
 <h2>About me 😃</h2>
 <!--Intro start-->
